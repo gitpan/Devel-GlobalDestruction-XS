@@ -1,7 +1,7 @@
 ---
-abstract: unknown
+abstract: 'Faster implementation of the Devel::GlobalDestruction API'
 author:
-  - unknown
+  - 'Yuval Kogman <nothingmuch@woobling.org>'
 build_requires:
   ExtUtils::MakeMaker: 0
 configure_requires:
@@ -21,4 +21,4 @@ requires: {}
 resources:
   bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=Devel-GlobalDestruction-XS
   repository: git://git.shadowcat.co.uk/p5sagit/Devel-GlobalDestruction-XS.git
-version: 0.00_01
+version: 0.01

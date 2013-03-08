@@ -1,7 +1,7 @@
 {
-   "abstract" : "unknown",
+   "abstract" : "Faster implementation of the Devel::GlobalDestruction API",
    "author" : [
-      "unknown"
+      "Yuval Kogman <nothingmuch@woobling.org>"
    ],
    "dynamic_config" : 0,
    "generated_by" : "ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.120921",
@@ -34,7 +34,7 @@
          "requires" : {}
       }
    },
-   "release_status" : "testing",
+   "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
          "web" : "http://rt.cpan.org/Public/Dist/Display.html?Name=Devel-GlobalDestruction-XS"
@@ -43,5 +43,5 @@
          "url" : "git://git.shadowcat.co.uk/p5sagit/Devel-GlobalDestruction-XS.git"
       }
    },
-   "version" : "0.00_01"
+   "version" : "0.01"
 }
